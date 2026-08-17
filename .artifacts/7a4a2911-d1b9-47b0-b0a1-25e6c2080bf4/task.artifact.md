@@ -1,0 +1,4 @@
+- [x] `AI_Service.kt` dosyasını ikili dil yapısı (İngilizce/Türkçe) ile güncelle
+- [x] `ProductDao` (Dao.kt) sorgusunu İngilizce alanlara göre optimize et
+- [x] `ResultScreen.kt` ekranında Türkçe gösterim ve İngilizce arama mantığını uygula
+- [x] Logcat üzerinden veri akışını doğrula ve benzer ürünlerin geldiğini teyit et

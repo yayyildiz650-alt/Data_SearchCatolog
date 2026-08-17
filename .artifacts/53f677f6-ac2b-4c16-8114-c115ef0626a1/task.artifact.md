@@ -1,0 +1,7 @@
+- [x] Ortak model paketini (`com.example.data_searchcatolog.model`) oluştur ve modelleri taşı
+- [x] `retrofit/Product_Model.kt` dosyasını sil
+- [x] `room/Room_Model.kt` dosyasını sil
+- [x] `ProductApiService.kt` dosyasını yeni modellerle güncelle
+- [x] Room bileşenlerini (`Dao`, `Database`, `Converters`) yeni modellerle güncelle
+- [x] `MainActivity.kt` dosyasını düzelt (Arayüz ve mantık ayrımı)
+- [x] Gradle Senkronizasyonu ve Build kontrolü yap
